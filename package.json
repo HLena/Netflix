@@ -1,0 +1,26 @@
+{
+  "name": "netflix",
+  "version": "1.0.0",
+  "description": "pagina web estilo Netflix",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HLena/Netflix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HLena/Netflix/issues"
+  },
+  "homepage": "https://github.com/HLena/Netflix#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
